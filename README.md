@@ -1,4 +1,4 @@
-Question 1 and 2:
+# Question 1 and 2:
 
 Question 1 and 2 are done using java.
 After cloning the repository from GitHub, unzip the file in your preferred location.
